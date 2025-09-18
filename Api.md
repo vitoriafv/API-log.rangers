@@ -113,7 +113,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |00| 11/09/2025 |concluído| Kickoff|
-|01 | 09/04/2025 | a concluir | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) | 
-|02|  30/04/2025| a concluir |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
-|03| 28/05/2025 | a concluir |[MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
-|04 - Feira de Soluções| 17/06/2025 |a concluir |[MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
+|01 | 02/10/2025 | a concluir | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) | 
+|02|  23/10/2025| a concluir |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
+|03| 13/11/2025 | a concluir |[MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
+|04 - Feira de Soluções| 04/12/2025 |a concluir |[MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
