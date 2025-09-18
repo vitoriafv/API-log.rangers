@@ -21,7 +21,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Yasmin Vilhena         |     [![Linkedin Bagde](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-vilhena-833245303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/2006yas)              |
+| Product Owner |   Yasmin Vilhena         |     [![Linkedin Bagde](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-vilhena-833245303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/2006yas)              |
 | Scrum Master  | Felipe Ferreira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-f-silva-9a1b61357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipe210406)      |
 | Team Member   | Samir Fonseca              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samir-alves-fonseca-59361b366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Samir-A204)        |
 |  Team Member  | Vitória Fernandes                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-vieira-b931a0336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitoriafv)        |
@@ -112,8 +112,8 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|00| 12/03/2025 |concluído| Kickoff|
-|01 | 09/04/2025 | concluído | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) | 
-|02|  30/04/2025| concluído |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
-|03| 28/05/2025 | concluído |[MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
-|04 - Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
+|00| 11/09/2025 |concluído| Kickoff|
+|01 | 09/04/2025 | a concluir | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) | 
+|02|  30/04/2025| a concluir |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
+|03| 28/05/2025 | a concluir |[MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
+|04 - Feira de Soluções| 17/06/2025 |a concluir |[MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
