@@ -36,22 +36,23 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Desenvolver habilidades técnicas;
 
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
-* Github (backlog);       
+* Github (backlog);
+* Jira (registro de tarefas);
 * Google Colab Python (análise de dados e filtragem);
 * Power BI (visualização dos dados);
-* Excel (segmentação de dados das subdivisões dos municípios);
+* Excel (segmentação de dados);
   
  ### Tecnologias da Informação
-* Comexstat;
+* IBAMA;
+* RENAEST;
 * Chatgpt;
 * Gemini IA;
-* SEADE;
 
 
 # Backlog do produto
@@ -60,33 +61,33 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Defina o propósito do trabalho;
 - [x] Identifique os elementos principais;
 - [x] Trate os dados no Python
-- [x] Esboce o layout do Power BI;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Finalize e aprovação.
+- [ ] Esboce o layout do Power BI;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Finalize e aprovação.
 
 ## Sprint 2
-- [x] Defina os ajustes da sprint;
-- [x] Acrescente dados de regiões no Python
-- [x] Desenvolvimento do Power BI;
-- [x] Monitoramento e testes.
+- [ ] Defina os ajustes da sprint;
+- [ ] Acrescente dados de regiões no Python
+- [ ] Desenvolvimento do Power BI;
+- [ ] Monitoramento e testes.
       
 ## Sprint 3
-- [x] Defina os ajustes da sprint;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
+- [ ] Defina os ajustes da sprint;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
       
 ## Sprint 4
-- [x] Defina os ajustes finais;
-- [x] Esboce o layout;
-- [x] Desenvolva a apresentação de slides;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [x] Apresente o projeto na feira de soluções;
-- [x] Finalize e aprovação.
+- [ ] Defina os ajustes finais;
+- [ ] Esboce o layout;
+- [ ] Desenvolva a apresentação de slides;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Apresente o projeto na feira de soluções;
+- [ ] Finalize e aprovação.
 
 
 ## Product backlog
