@@ -94,7 +94,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
-|01 |      Alta     | Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |   4   |  1       |     RN.P.2       | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) |
+|01 |      Alta     | Como tomador de decisões de políticas públicas, quero receber uma base de dados tratada, para ter acesso rápido e confiável às informações consolidadas. |   4   |  1       |     RN.P.2       | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) |
 |02|     Alta      | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista. |       5     |      1      |       RN.P.1      | [ ]
 |03|     Alta       |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades.|      2     |        1     |      RN.P.1 | [ ]
 |04|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |        2      |      2      |       RN.P.5       | |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
