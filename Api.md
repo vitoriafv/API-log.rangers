@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-O objetivo deste projeto é desenvolver um dashboard interativo em Power BI que permita visualizar e analisar estatisticamente os acidentes viários com veículos pesados no Brasil, no período de 2013 a 2023, a partir do tratamento de dados do IBAMA sobre cargas especiais utilizando a tecnologia Python. Essa ferramenta fornecerá informações claras e acessíveis, possibilitando uma melhor análise da movimentação de cargas.
+O objetivo deste projeto é desenvolver um dashboard interativo em Power BI que permita visualizar e analisar estatisticamente os acidentes viários com veículos pesados no Brasil, no período de 2021 a 2025, a partir do tratamento de dados do IBAMA sobre cargas especiais utilizando a tecnologia Python. Essa ferramenta fornecerá informações claras e acessíveis, possibilitando uma melhor análise da movimentação de cargas.
 
 
 # Equipe
