@@ -61,8 +61,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Defina o propósito do trabalho;
 - [x] Identifique os elementos principais;
 - [x] Trate os dados no Python
-- [ ] Esboce o layout do Power BI;
-- [ ] Desenvolva o design;
+- [x] Esboce o layout do Power BI;
+- [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Finalize e aprovação.
 
