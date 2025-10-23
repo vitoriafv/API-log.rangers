@@ -104,7 +104,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |09|    Média    | Como tomador de decisões e políticas públicas, quero visualizar as causas dos acidentes viários, para identificar padrões e apoiar ações de prevenção. |         6     |      3     |       RN.P.4      | [ ]
 |10|       Média      | Como tomador de decisões e políticas públicas, quero utilizar uma plataforma de BI com informações sobre acidentes viários com veículos pesados no Brasil, para analisar estatísticas e embasar decisões estratégicas.|    6    |      3    |    RN.P.3      |  [MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
 |11|     Baixa        | Como tomador de decisões e políticas públicas, quero uma visualização gráfica interativa dos acidentes nos municípios de São Paulo (2021–2025), para avaliar tendências regionais e apoiar o planejamento logístico. |     3      |    4     |     RN.P.2       | [ ]
-|12|      Baixa   |	Como tomador de decisões de políticas públicas, quero saber quais empresas mais movimentam que são registradas no R.A.P., para planejar investimentos em logística e infraestrutura portuária. |      2      |       4     | RN.P.3|[ ]
+|12|      Baixa   |	Como tomador de decisões de políticas públicas, quero saber quais empresas mais movimentam que são registradas no R.A.P.P., para planejar investimentos em logística e infraestrutura portuária. |      2      |       4     | RN.P.3|[ ]
 
 
 
